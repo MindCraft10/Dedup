@@ -1,0 +1,5 @@
+streamlit>=1.30
+pandas>=2.0
+openpyxl>=3.1
+rapidfuzz>=3.0
+metaphone>=0.6; platform_system!=''  # optional, app works without it
